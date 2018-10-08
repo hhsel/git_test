@@ -1,1 +1,2 @@
 echo sub script
+exit
